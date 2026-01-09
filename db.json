@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "nomeProduto": "Celular",
+    "categoria": "Teste",
+    "quantidade": 50,
+    "preco": 2000
+  }
+]

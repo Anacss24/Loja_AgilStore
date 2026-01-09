@@ -29,11 +29,18 @@ Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
 2.  **Acesse a pasta do projeto**:
     ```bash
     cd Loja_AgilStore
+     ```
+     ```bash
     cd App
-    ```
+     ```
+   
 
    ## ▶️ Como Rodar a Aplicação
    Para executar o script, utilize o comando:
 
 ```bash
+npm install
+ ```
+ ```bash
 node index.js
+ ```
